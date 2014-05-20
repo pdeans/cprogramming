@@ -1,0 +1,11 @@
+Char Constant	 Description		 Value
+'\n'			 newline			 10
+'\t'			 horizontal tab		 9
+'\v'			 vertical tab		 11
+'\b'			 backspace			 8
+'\r'			 carriage return	 13
+'\f'			 form feed			 12
+'\\'			 backslash			 92
+'\''			 single quote		 39
+'\"'			 double quote		 34
+'\0'			 null				 0

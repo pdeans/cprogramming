@@ -1,0 +1,2 @@
+Speed (mph): 56.73
+Speed (meters/second): 25.21

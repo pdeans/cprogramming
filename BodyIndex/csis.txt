@@ -1,0 +1,8 @@
+Enter weight (lbs) and height (in): 175 70
+BMI: 25.0 Overweight
+Enter weight (lbs) and height (in): 120 68
+BMI: 18.0 Underweight
+Enter weight (lbs) and height (in): 225 65
+BMI: 37.0 Obese
+Enter weight (lbs) and height (in): 140 67
+BMI: 21.0 Normal

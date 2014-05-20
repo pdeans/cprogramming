@@ -1,0 +1,8 @@
+Enter four integers to compare: 28 44 66 82
+Smallest: 28	 Largest: 82
+Enter four integers to compare: 8 14 22 6
+Smallest: 6	 Largest: 22
+Enter four integers to compare: 21 38 12 16
+Smallest: 12	 Largest: 38
+Enter four integers to compare: 98 22 45 63
+Smallest: 22	 Largest: 98

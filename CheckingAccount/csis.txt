@@ -1,0 +1,29 @@
+Transaction		   Deposit		 Check		 Balance
+-----------		   -------		 -----		 -------
+Initial Balance	 	 	 	 				  478.83
+Deposit			   127.45	 				  606.28
+Deposit			   747.29	 				 1226.12
+Check						    945.12		  281.00
+Check						    949.88		  276.24
+Deposit			   780.10	 				  309.05
+Check						    950.94		  307.99
+Deposit			   964.42	 				  492.31
+Check						   1446.12		   -2.87
+Check						   1587.93		 -144.68
+Check						   1843.03		 -399.78
+Deposit			  1214.42	 				 -149.78
+Deposit			  1338.30	 				  -25.90
+Deposit			  1583.35	 				  219.15
+Deposit			  2456.60	 				 1092.40
+Check						   2824.15		  111.28
+Deposit			  2774.44	 				  429.12
+Check						   3636.88		 -383.61
+Deposit			  3380.56	 				  222.51
+
+Total number deposits: 10
+Total amount deposits: $3380.56
+	Total number checks: 8
+	Total amount checks: $3636.88
+Total service charge: $23.54
+	Opening balance: $478.83
+	Closing balance: $198.97
